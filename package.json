@@ -1,0 +1,25 @@
+{
+  "name": "houspanel-push",
+  "version": "0.1.0",
+  "description": "HousePanel Websocket Push",
+  "main": "houspanel-push.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danTapps",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dterryn/houspanel-push.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dterryn/houspanel-push/issues"
+  },
+  "homepage": "https://github.com/dterryn/houspanel-push#readme",
+  "dependencies": {
+    "websocket": "^1.0.28",
+    "request": "^2.88.0",
+    "express": "^4.16.4"
+  }
+}
