@@ -1,5 +1,5 @@
 {
     "port":"19234",
     "webSocketServerPort":"1337",
-    "housepanel_url":"http://192.168.10.207:81/HousePanelDev/housepanel.php"
+    "housepanel_url":"http://192.168.10.207/HousePanel/housepanel.php"
 }
